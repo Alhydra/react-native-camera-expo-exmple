@@ -8,4 +8,4 @@
   
 
 My name is Youssef el habchi, from [reactnativemaster.com](https://reactnativemaster.com) I have recently wrote an article on React Native Camera Expo and this repository contains the code I have used, feel free to use it in your project and share it with your peers, if you feel like reading the article, which I recommend follow this link [React Native Camera Expo Example](https://reactnativemaster.com/react-native-camera-expo-example)
-If you would like to try the app on Expo, I have prepared an expo project, check it from  [Here](https://exp.host/@alhydra/react-native-camera-expo-example)
+If you would like to try the app on Expo, I have prepared an [Expo.io Project](https://exp.host/@alhydra/react-native-camera-expo-example)
